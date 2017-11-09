@@ -3,7 +3,7 @@ The house of my Auth app. A part of an RN course. This app uses React, React Nat
 
 How to run:<br />
 Initialise react-native<br/>
-`react-native init App --version react-native@0.47.0`<br/>
+`react-native init App --version react-native@0.49.3`<br/>
 Install firebase</br>
 `npm install --save firebase@4.5.2`<br/>
 Then:<br/>
